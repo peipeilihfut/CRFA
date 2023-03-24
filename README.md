@@ -77,3 +77,8 @@ $ python newmain.py --epoch 100 --lr 2e-4 --train_data_path dataset/TREC.tsv --t
   * dataset.py : 数据集的加载和处理，使数据集中的数据变为词向量
   * metrics.py : 评价指标函数的实现
 * newmain.py : 运行文件
+
+### 参考论文
+```
+Liu, Yingying, Peipei Li, and Xuegang Hu. Combining context-relevant features with multi-stage attention network for short text classification[J]. Computer Speech & Language, 2022, 71: 101268.
+```
